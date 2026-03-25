@@ -1,0 +1,15 @@
+// {
+//   "version": "2.0.0",
+//   "tasks": [
+//     {
+//       "label": "repo:read",
+//       "type": "shell",
+//       "command": "powershell .vscode/tools/repo-reader.ps1"
+//     },
+//     {
+//       "label": "code:lint",
+//       "type": "shell",
+//       "command": "dotnet build"
+//     }
+//   ]
+// }

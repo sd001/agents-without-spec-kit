@@ -1,0 +1,7 @@
+// {
+//   "github.copilot.chat.codeGeneration.instructions": [
+//     {
+//       "text": "If user says 'use reviewer agent', follow .vscode/agents/code-reviewer.md"
+//     }
+//   ]
+// }
